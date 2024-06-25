@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ashley's Personal Website
 layout: home
 ---
 
