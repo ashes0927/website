@@ -6,7 +6,7 @@ layout: home
 # Ashley's Website
 ## Software Engineer Major 
 
-![Ashley's Professional Headshot]()
+![Ashley's Professional Headshot](dog.png)
 
 <html lang="en">
 <head>
